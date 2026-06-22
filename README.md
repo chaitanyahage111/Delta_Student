@@ -1,2 +1,2 @@
 # Delta_Student
-This is demo for Git and Github class student.
+This is demo for Git and Github class student..
